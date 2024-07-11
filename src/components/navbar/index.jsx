@@ -1,4 +1,3 @@
-import { hover } from "@testing-library/user-event/dist/hover";
 import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
